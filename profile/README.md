@@ -16,8 +16,6 @@ Orlance focuses on delivering sustainable yield while providing absolute protect
 
 ## 🏗️ Repository Structure
 
-*(Note: Adjust the links below to match the actual repository names in the Orlance organization)*
-
 * [`orlance-sc`](#) - The main repository containing the Orlance Protocol smart contracts (Solidity/Stylus).
 * [`orlance-fe`](#) - The web-based user interface (UI/UX) to interact with the Orlance dApp.
 
@@ -50,7 +48,7 @@ Below is the list of Orlance Protocol smart contract addresses currently deploye
 
 ## 🌐 Links
 
-* **Website**: [orlance-protocol.vercel.app](#) *(Example, replace with actual link)*
+* **Website**: [orlance-protocol.vercel.app](#)
 
 ---
 *Built natively on the Arbitrum Ecosystem.*
